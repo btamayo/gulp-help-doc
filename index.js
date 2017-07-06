@@ -1,5 +1,5 @@
 /**
- * Implements self-documented gulp-file
+ * Implements self-documented gulpfile
  *
  * @author Mykhailo Stadnyk <mikhus@gmail.com>
  */
